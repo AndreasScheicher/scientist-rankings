@@ -1,6 +1,10 @@
-# scientist-rankings
+# Scientist Rankings
 
-Analyse a dataset of scientist impact rankings and apply machine learning.
+This project analyses a dataset of scientists and their impact rankings based on their publications and citations.
+
+It evaluates the use of machine learning to predict the rankings and introduces a method to generate personalized recommendations for improving the ranking.
+
+All code is located in the scientist_rankings.ipynb. You can clone the project and run the notebook to recreate the results. (There might be minor differences caused by the random generator.)
 
 ## License
 
